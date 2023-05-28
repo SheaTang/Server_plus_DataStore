@@ -19,6 +19,11 @@
       "id": 4,
       "title": "post 4",
       "published": false
+    },
+    {
+      "id": "1",
+      "title": "ping",
+      "published": "false"
     }
   ]
 }
